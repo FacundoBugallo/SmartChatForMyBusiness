@@ -1,0 +1,173 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491150958268@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB18C34143DED48A5E2',
+    participant: undefined
+  },
+  messageTimestamp: 1741206552,
+  pushName: 'Facu',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '5491150958268'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_55849001-8ebb-41d3-86ae-a33d8bd0bdc0',
+  keyword: 'key_b8861689-49ca-42b7-9344-00851491a6fb',
+  answer: 'Hola buenas, ¿cómo estás?\r\n' +
+    'Te estás comunicando con el contestador de Apple zone, dime en qué estas interesado.\r\n' +
+    'Opción 1 -> *Comprar.* \r\n' +
+    'Opción 2 -> *Vender.*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ef0959d95080dee8ac899f873c44be45'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491150958268@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB16FB5AE3DC70B8F35',
+    participant: undefined
+  },
+  messageTimestamp: 1741206557,
+  pushName: 'Facu',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '5491150958268'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491163012394@s.whatsapp.net',
+    fromMe: false,
+    id: 'C281A03BC2927AF1CECD371E3A0D7394',
+    participant: undefined
+  },
+  messageTimestamp: 1741206886,
+  pushName: 'Fer🍷',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Holaa',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Holaa',
+  from: '5491163012394'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_55849001-8ebb-41d3-86ae-a33d8bd0bdc0',
+  keyword: 'key_b8861689-49ca-42b7-9344-00851491a6fb',
+  answer: 'Hola buenas, ¿cómo estás?\r\n' +
+    'Te estás comunicando con el contestador de Apple zone, dime en qué estas interesado.\r\n' +
+    'Opción 1 -> *Comprar.* \r\n' +
+    'Opción 2 -> *Vender.*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ef0959d95080dee8ac899f873c44be45'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491163012394@s.whatsapp.net',
+    fromMe: false,
+    id: '5964CB93EB1268C933B2B179545F7549',
+    participant: undefined
+  },
+  messageTimestamp: 1741206892,
+  pushName: 'Fer🍷',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '5491163012394'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491163012394@s.whatsapp.net',
+    fromMe: false,
+    id: '4F571C02ECB73AA192EB1B186592728D',
+    participant: undefined
+  },
+  messageTimestamp: 1741206911,
+  pushName: 'Fer🍷',
+  broadcast: false,
+  message: Message {
+    conversation: 'Oaa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Oaa',
+  from: '5491163012394'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491163012394@s.whatsapp.net',
+    fromMe: false,
+    id: 'F636A7B51D743BE2B40BCBA1119EFE11',
+    participant: undefined
+  },
+  messageTimestamp: 1741207025,
+  pushName: 'Fer🍷',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '5491163012394'
+}

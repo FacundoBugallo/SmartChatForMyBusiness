@@ -1,0 +1,118 @@
+[
+  {
+    "ref": "4d353644-3b64-4a40-afda-458ba667c4eb",
+    "keyword": "249fdfb1ab22675b119b03b15c0f7518",
+    "answer": "Hola",
+    "options": {},
+    "from": "5491150958268",
+    "refSerialize": "c22e4066d61d81721def9b25d8a397e8"
+  },
+  {
+    "ref": "ans_55849001-8ebb-41d3-86ae-a33d8bd0bdc0",
+    "keyword": "key_b8861689-49ca-42b7-9344-00851491a6fb",
+    "answer": "Hola buenas, ¿cómo estás?\r\nTe estás comunicando con el contestador de Apple zone, dime en qué estas interesado.\r\nOpción 1 -> *Comprar.* \r\nOpción 2 -> *Vender.*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "ef0959d95080dee8ac899f873c44be45",
+    "from": "5491150958268"
+  },
+  {
+    "ref": "7e1541d0-3731-4300-9845-0e056b4f9780",
+    "keyword": "ef0959d95080dee8ac899f873c44be45",
+    "answer": "1",
+    "options": {},
+    "from": "5491150958268",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "ans_1e5df2d7-3860-43b6-88d0-4d76d33ee9e1",
+    "keyword": "key_768ed361-8e2a-4fb1-a398-ae5e648e07c4",
+    "answer": "Tengo en Stock solo el un \r\n*iPhone 8 plus* \r\nTiene *64 GB* y un bateria\r\nal 76% 🔋.\r\nEl *iPhone* lo remato a \r\n_220.000_ *Pesos.*\r\n\r\nSe va con cargador de *regalo.*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "eecee94ef754328a59afd9c6fb06d40f",
+    "from": "5491150958268"
+  },
+  {
+    "ref": "ans_55849001-8ebb-41d3-86ae-a33d8bd0bdc0",
+    "keyword": "key_b8861689-49ca-42b7-9344-00851491a6fb",
+    "answer": "Hola buenas, ¿cómo estás?\r\nTe estás comunicando con el contestador de Apple zone, dime en qué estas interesado.\r\nOpción 1 -> *Comprar.* \r\nOpción 2 -> *Vender.*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "ef0959d95080dee8ac899f873c44be45",
+    "from": "5491163012394"
+  },
+  {
+    "ref": "7aa7bd62-3cd9-4eee-b737-8d27cf3f78ae",
+    "keyword": "ef0959d95080dee8ac899f873c44be45",
+    "answer": "1",
+    "options": {},
+    "from": "5491163012394",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "ans_1e5df2d7-3860-43b6-88d0-4d76d33ee9e1",
+    "keyword": "key_768ed361-8e2a-4fb1-a398-ae5e648e07c4",
+    "answer": "Tengo en Stock solo el un \r\n*iPhone 8 plus* \r\nTiene *64 GB* y un bateria\r\nal 76% 🔋.\r\nEl *iPhone* lo remato a \r\n_220.000_ *Pesos.*\r\n\r\nSe va con cargador de *regalo.*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "eecee94ef754328a59afd9c6fb06d40f",
+    "from": "5491163012394"
+  },
+  {
+    "ref": "86b8d60f-310f-442f-8133-922a8d59a87a",
+    "keyword": "eecee94ef754328a59afd9c6fb06d40f",
+    "answer": "Oaa",
+    "options": {},
+    "from": "5491163012394",
+    "refSerialize": "9354ed56b3da05410792cdf6bd543a31"
+  },
+  {
+    "ref": "a301a37e-2e42-4f7e-adf1-d2075a52490e",
+    "keyword": "9354ed56b3da05410792cdf6bd543a31",
+    "answer": "2",
+    "options": {},
+    "from": "5491163012394",
+    "refSerialize": "2294c3d08b53a6effa5df696a15b9d30"
+  }
+]
