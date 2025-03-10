@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### CHATBOT Whatsapp (Baileys Provider)
 
 <p align="center">
@@ -20,3 +21,7 @@ npm start
 - [💻 Discord](https://link.codigoencasa.com/DISCORD)
 - [👌 Twitter](https://twitter.com/leifermendez)
 - [🎥 Youtube](https://www.youtube.com/watch?v=5lEMCeWEJ8o&list=PL_WGMLcL4jzWPhdhcUyhbFU6bC0oJd2BR)
+=======
+# SmartChatForMyBusiness
+I am developing an AI chat for WhatsApp. It has basic auto-reply features and some queries are handled via the GPT API. This project is designed to make a task that takes up part of my time in my business easier for me.
+>>>>>>> cf6d2e9ab8fa081a9ae07a2b872e8148ebbdd1d8
